@@ -1,0 +1,1 @@
+from cdClassifier.config.configuration import ConfigurationManager
