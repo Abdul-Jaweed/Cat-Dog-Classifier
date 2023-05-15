@@ -2,3 +2,4 @@ from cdClassifier.components.data_ingestion import DataIngestion
 from cdClassifier.components.prepare_base_model import PrepareBaseModel
 from cdClassifier.components.prepare_callback import PrepareCallback
 from cdClassifier.components.training import Training
+from cdClassifier.components.evaluation import Evaluation
