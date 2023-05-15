@@ -27,16 +27,16 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/cnnClassifier
+https://github.com/Abdul-Jaweed/Cat-Dog-Classifier
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.7 -y
+conda create -p venv python=3.8 -y
 ```
 
 ```bash
-conda activate cnncls
+conda activate venv/
 ```
 
 
@@ -53,7 +53,7 @@ python app.py
 
 Now,
 ```bash
-open up you local host and port
+Open up your local host and port
 ```
 
 
